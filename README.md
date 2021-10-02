@@ -1,1 +1,1 @@
-# space-duel
+# Space Duel
